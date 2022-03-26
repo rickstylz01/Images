@@ -1,4 +1,5 @@
 # Images
+![alt text here](portfolio_logo.png)
 ![alt text here](sign_up.png)
 ![alt text here](welcome.png)
 ![alt text here](loginlogo.png)
