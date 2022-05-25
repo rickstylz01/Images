@@ -7,3 +7,4 @@
 ![alt text here](rickstagramImg.png)
 ![alt text here](todoImg.png)
 ![alt text here](tourystImg.png)
+![alt text here](laptopCustomizer.png)
